@@ -1,22 +1,15 @@
 ### CSE202 - DBMS Course Project - Design of Database Management System of a Cab booking system
 
-## “CAB-CONNECT”
-
 #### To-Do
 
-- [ ] Stakeholder
-  
+- [ ] Stakeholder Indentification
 - [ ] Roadmap
-  
-
 - [ ] Entities and Relationships
-  
 
 ---
 
 ## Project Scope:
-
-The project aims to building a database management system for a cab booking system. We will design a frontend application with robust backend database management system using the various DBMS concepts taught in the course CSE202. The project is aimed to create such a database where a person can easily get a vehicle for it’s transport without any hassle.
+- The project aims to build a database management system for a cab booking system. We will design a frontend application with a robust backend database management system using the various DBMS concepts taught in the course CSE202. The project is aimed to create such a database where a person can easily get a vehicle for it’s transport without any hassle.
 
 ## Technical requirements (Tech Stack):
 
@@ -24,7 +17,7 @@ The project aims to building a database management system for a cab booking syst
 
 - **JavaScript, React Framework**: JavaScript is the most popular and widely used scripting programming language for web applications which can be used both client and server side. We aim to use the React open-source library to build the user interface for this project.  
 
-- **Figma**: Figma is a application used to design interfaces for various applications. We can prototype basic functionality required in the application and then use **HTML and CSS** to implement the made design in our project. We can also further use Figma to create or use existing design languages and design a graphic identity. 
+- **Figma**: Figma is an application used to design interfaces for various applications. We can prototype the basic functionality required in the application and then use **HTML and CSS** to implement the design in our project. We can also further use Figma to create or use existing design languages and design a graphic identity. 
 
 2. Back End:
 
